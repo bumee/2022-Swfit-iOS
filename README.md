@@ -1,4 +1,4 @@
-# 2022-Swfit-iOS
+# 2022-Swift-iOS
 
 here gonna be a registory for private studied project files.
 
